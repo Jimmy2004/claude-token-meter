@@ -1,0 +1,8 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Claude Code / Claude Desktop mod: a band above the prompt showing context window, session tokens, last-turn tokens/sec, rate limits and cost",
+  "license": "MIT",
+  "author": { "name": "Jimmy2004" },
+  "types": "./types/index.d.ts"
+}
